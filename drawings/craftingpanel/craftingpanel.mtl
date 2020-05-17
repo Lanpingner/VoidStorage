@@ -1,0 +1,8 @@
+# Made in Blockbench 3.5.2
+newmtl 0
+map_Kd front 
+newmtl 1
+map_Kd back 
+newmtl 2
+map_Kd side 
+newmtl none
