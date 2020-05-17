@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "voidstorage:block/vsdiskdrive_block" }
+  }
+}

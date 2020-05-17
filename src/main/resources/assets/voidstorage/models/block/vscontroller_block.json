@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "voidstorage:blocks/vscontroller/vscontroller_block"
+  }
+}

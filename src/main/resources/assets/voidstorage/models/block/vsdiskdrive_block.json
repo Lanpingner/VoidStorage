@@ -1,0 +1,21 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "all": "voidstorage:blocks/vsdisk_holder/sides",
+    "north" : "voidstorage:blocks/vsdisk_holder/north"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "down":  { "texture": "#all", "cullface": "top" },
+        "up":    { "texture": "#all", "cullface": "up" },
+        "north": { "texture": "#north", "cullface": "north" },
+        "south": { "texture": "#all", "cullface": "south" },
+        "west":  { "texture": "#all", "cullface": "west" },
+        "east":  { "texture": "#all", "cullface": "east" }
+      }
+    }
+  ]
+}

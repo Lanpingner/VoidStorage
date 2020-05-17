@@ -1,0 +1,7 @@
+{
+  "item.voidstorage.ruby": "Ruby",
+  "itemGroup.voidstorage": "Void Storage",
+  "block.voidstorage.vscontroller_block": "VS Controller",
+  "block.voidstorage.diskio_block" : "DiskIO",
+  "item.voidstorage.emptydisk" : "Empty Drive"
+}
